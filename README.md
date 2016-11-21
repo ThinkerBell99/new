@@ -28,6 +28,7 @@ I would there for recommend you to get on our online network'portal 'if you will
 (Be sure to fill in your department info in the "Tell us about yourself" so we can quickly send you an acceptance email with login info - so you can enter in under 10 min)
 
 Inside Slack you can chat with over 500 other pirate-members, share knowledge, make geeky projects and find inspiration - not to mention, we have a lot of fun in there too ;-)
+
 Med Venlig Hilsen
 Maria Scheel-Lonsdale
 Sekretær i Coding Pirates Lyngby
